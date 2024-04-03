@@ -6,3 +6,5 @@
 2、彼岸图网--美女图片https://github.com/MOOOOOO9/study_crawer/blob/b5f0bf68236df38aac5b954f6fdfdb26205f7a9d/beautiful_girl.py
 
 3、彼岸图网--批量图片 https://github.com/MOOOOOO9/study_crawer/blob/73682524aa742667bc5fc6231587985cb7b1af91/imgs.py
+
+4、新浪新闻标题和url https://github.com/MOOOOOO9/study_crawer/blob/main/xinlang.py
